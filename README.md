@@ -6,23 +6,5 @@ Perfectly Matched Layers (PML) are used at outer boundaries as artificial domain
 
 Here are the results plotted in Originpro, and original Figure 2 from Mathew's article.
 
-Linear and and nonlinear transmittance: 
+<img width="2242" height="2562" alt="myresults_vs_Mathews_Images" src="https://github.com/user-attachments/assets/a44bfb05-a608-410c-88fc-1fb6eb054157" />
 
-<img width="500" height="400" alt="Linear transmittance" src="https://github.com/user-attachments/assets/65ab7a47-4536-4fbe-872e-f4efaaf59325" />
-<img width="500" height="400" alt="Nonlinear transmittance" src="https://github.com/user-attachments/assets/9c23cebc-b557-4280-996d-d6200a3cfb28" />
-
-Nonlinear, Forward
-
-<img width="250" height="400" alt="E_field_forward_nonlinear" src="https://github.com/user-attachments/assets/8954ce7e-74f3-4948-ab44-153a17f0e0d3" />
-
-Linear, Forward
-
-<img width="250" height="400" alt="E_field_forward_linear" src="https://github.com/user-attachments/assets/079d00a5-6b40-47fe-8365-b0ce8132129f" />
-
-Nonlinear, backward
-
-<img width="250" height="400" alt="E_field_backward_nonlinear" src="https://github.com/user-attachments/assets/92fe0b03-3e70-4cda-baef-bbdaa584c6dc" />
-
-Linear, backward
-
-<img width="250" height="400" alt="E_field_backward_linear" src="https://github.com/user-attachments/assets/fa6c216d-ca3b-4902-a7ea-aa88e687e06c" />
